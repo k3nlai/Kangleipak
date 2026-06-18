@@ -1,1 +1,10 @@
+body {
+    background-color: powderblue;
+    color: rgb(76, 76, 159);
+    font-family: 'Syne Mono', monospace;
+}
 
+h1 {
+    font-family: 'Tektur', cursive;
+    color: rgb(76, 76, 159);
+}

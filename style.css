@@ -10,3 +10,12 @@ h1 {
 .books1 {
     background-color: gray;
 }
+
+.Contents{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border: 1px solid black;
+    gap: 20px;
+    flex-wrap: wrap;
+}

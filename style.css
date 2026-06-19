@@ -14,7 +14,7 @@ h1 {
 .Contents{
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content:space-evenly;
     border: 1px solid black;
     gap: 20px;
     flex-wrap: wrap;
